@@ -6,7 +6,7 @@ The example in this starter is an Uptime Monitoring System that continuously mon
 
 When it detects a website is down, it posts a Slack message notifying that the website is down, and another message when the website is back up again.
 
-It has a react frontend and you can try a demo version [here](https://uptime.encore.build/).
+It has a react frontend, and you can try a demo version [here](https://uptime.encore.build/).
 
 It will be home automation extention panel soon!
 
