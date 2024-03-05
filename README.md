@@ -8,7 +8,7 @@ When it detects a website is down, it posts a Slack message notifying that the w
 
 It has a react frontend, and you can try a demo version [here](https://uptime.encore.build/).
 
-It will be home automation extension panel soon!
+It will be home automation extension panel soon, allowing to pay for turning something on/off.
 
 ![Frontend](https://encore.dev/assets/tutorials/uptime/frontend.png)
 ![Architecture](https://encore.dev/assets/tutorials/uptime/encore-flow.png)
