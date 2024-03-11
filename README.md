@@ -92,3 +92,7 @@ Now off you go into the clouds!
 ```bash
 encore test ./...
 ```
+
+```bash
+go test
+```
