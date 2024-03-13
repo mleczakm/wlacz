@@ -10,6 +10,7 @@ It has a React frontend, and you can try a demo version [here](https://uptime.en
 
 It will be home automation extension panel soon, allowing to pay for turning something on/off.
 
+![Frontend](https://encore.dev/assets/tutorials/uptime/frontend.png)
 ![Architecture](https://encore.dev/assets/tutorials/uptime/encore-flow.png)
 
 
