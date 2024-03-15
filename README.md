@@ -13,8 +13,6 @@ It will be home automation extension panel soon, allowing to pay for turning som
 ![Frontend](https://encore.dev/assets/tutorials/uptime/frontend.png)
 ![Architecture](https://encore.dev/assets/tutorials/uptime/encore-flow.png)
 
-
-
 ## Build from scratch with a tutorial
 
 If you prefer, check out the [tutorial](https://encore.dev/docs/tutorials/uptime) to learn how to build this application from scratch.
